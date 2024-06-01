@@ -1,0 +1,134 @@
+卷 Windows-SSD 的文件夹 PATH 列表
+卷序列号为 78B8-6C6D
+C:.
+│  assimp-vc143-mtd.dll
+│  GeoKurumi.exe
+│  GeoKurumi.vcxproj
+│  GeoKurumi.vcxproj.filters
+│  GeoKurumi.vcxproj.user
+│  imgui.ini
+│  tree.txt
+│  
+├─Debug
+│  │  vc143.idb
+│  │  vc143.pdb
+│  │  
+│  └─GeoKurumi.tlog
+│          CL.command.1.tlog
+│          GeoKurumi.lastbuildstate
+│          unsuccessfulbuild
+│          
+├─res
+│  ├─font
+│  │      font.TTF
+│  │      
+│  ├─icon
+│  │      kurumi_icon.png
+│  │      
+│  ├─model
+│  │      base.obj
+│  │      bunny.obj
+│  │      DentalCast.obj
+│  │      doghead.obj
+│  │      f-16.mtl
+│  │      f-16.obj
+│  │      
+│  ├─shaders
+│  │      light_shader.fs
+│  │      light_shader.vs
+│  │      
+│  └─textures
+│          map.jpg
+│          
+├─save
+├─src
+│  │  camera.cpp
+│  │  camera.h
+│  │  glad.c
+│  │  imgui.zip
+│  │  main.cpp
+│  │  mesh.h
+│  │  Model.h
+│  │  shader.cpp
+│  │  shader.h
+│  │  stb_image.h
+│  │  switcher.h
+│  │  window.h
+│  │  
+│  └─imgui
+│          imconfig.h
+│          imfilebrowser.h
+│          imgui.cpp
+│          imgui.h
+│          imgui_draw.cpp
+│          imgui_impl_glfw.cpp
+│          imgui_impl_glfw.h
+│          imgui_impl_opengl3.cpp
+│          imgui_impl_opengl3.h
+│          imgui_impl_opengl3_loader.h
+│          imgui_internal.h
+│          imgui_tables.cpp
+│          imgui_widgets.cpp
+│          imstb_rectpack.h
+│          imstb_textedit.h
+│          imstb_truetype.h
+│          
+└─x64
+    ├─Debug
+    │  │  GeoKurumi.Build.CppClean.log
+    │  │  GeoKurumi.exe.recipe
+    │  │  GeoKurumi.ilk
+    │  │  GeoKurumi.log
+    │  │  GeoKurumi.vcxproj.FileListAbsolute.txt
+    │  │  glad.obj
+    │  │  imgui.obj
+    │  │  imgui_demo.obj
+    │  │  imgui_draw.obj
+    │  │  imgui_impl_glfw.obj
+    │  │  imgui_impl_opengl3.obj
+    │  │  imgui_tables.obj
+    │  │  imgui_widgets.obj
+    │  │  main.obj
+    │  │  main.obj.enc
+    │  │  vc143.idb
+    │  │  vc143.pdb
+    │  │  
+    │  └─GeoKurumi.tlog
+    │          CL.command.1.tlog
+    │          Cl.items.tlog
+    │          CL.read.1.tlog
+    │          CL.write.1.tlog
+    │          GeoKurumi.lastbuildstate
+    │          link.command.1.tlog
+    │          link.read.1.tlog
+    │          link.write.1.tlog
+    │          
+    └─Release
+        │  camera.obj
+        │  GeoKurumi.exe.recipe
+        │  GeoKurumi.iobj
+        │  GeoKurumi.ipdb
+        │  GeoKurumi.log
+        │  glad.obj
+        │  imgui.obj
+        │  imgui_demo.obj
+        │  imgui_draw.obj
+        │  imgui_impl_glfw.obj
+        │  imgui_impl_opengl3.obj
+        │  imgui_tables.obj
+        │  imgui_widgets.obj
+        │  main.obj
+        │  shader.obj
+        │  vc143.pdb
+        │  window.obj
+        │  
+        └─GeoKurumi.tlog
+                CL.command.1.tlog
+                Cl.items.tlog
+                CL.read.1.tlog
+                CL.write.1.tlog
+                GeoKurumi.lastbuildstate
+                link.command.1.tlog
+                link.read.1.tlog
+                link.write.1.tlog
+                
