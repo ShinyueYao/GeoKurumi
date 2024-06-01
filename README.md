@@ -3,6 +3,8 @@
 * A 3D Model Displayer based on OpenGL.
 * Final Project of ZJU OOP course (Prof. Jijun Li)
 * Only involves some basic knowledge about C++, CG etc.
+* Result
+![pic](GeoKurumi/res/pic.png)
 ## Prerequisite 
 * Visual Studio
 ## Reference
