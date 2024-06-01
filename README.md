@@ -1,5 +1,5 @@
 # **README**
-
-打不开文件请联系qq:1220214520 or 钉钉
-
-主要操作内容在程序内以文本形式给出
+## Introduction
+A 3D Model Displayer based on OpenGL.
+## Contact
+xinyue_yao@outlook.com
