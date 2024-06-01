@@ -10,6 +10,5 @@ https://www.cnblogs.com/FKdelphi/p/15250019.html
 https://learnopengl-cn.github.io/
 https://www.bilibili.com/video/BV1Ni4y1o7Au/?spm_id_from=333.337.search-card.all.click
 ## Contact
-email: xinyue_yao@outlook.com
-qq: 1220214520
-cc98: Apathie
+* cc98: Apathie
+* email: xinyue_yao@outlook.com 
