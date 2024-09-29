@@ -5,9 +5,9 @@
 * ImGui based
 ![pic](GeoKurumi/res/pic.png)
 ## Setup
-- Platform: Windows x86
+- Platform: Windows
 - Developed on Visual Studio
-- The ``.exe`` file is at ``/release/GeoKurumi.exe``
+- The ``.exe`` file is at ``/x64/Release/GeoKurumi.exe``
 ## Reference
 - https://www.cnblogs.com/FKdelphi/p/15250019.html 
 - https://learnopengl-cn.github.io/ 
