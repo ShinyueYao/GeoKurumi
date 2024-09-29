@@ -7,7 +7,7 @@
 ## Setup
 - Platform: Windows x86
 - Developed on Visual Studio
-- To run the project:
+- The ``.exe`` file is at ``/release/GeoKurumi.exe``
 ## Reference
 - https://www.cnblogs.com/FKdelphi/p/15250019.html 
 - https://learnopengl-cn.github.io/ 
