@@ -4,8 +4,10 @@
 * A 3D Model Displayer based on OpenGL.
 * ImGui based
 ![pic](GeoKurumi/res/pic.png)
-## Prerequisite 
-* Visual Studio 
+## Setup
+- Platform: Windows x86
+- Developed on Visual Studio
+- To run the project:
 ## Reference
 - https://www.cnblogs.com/FKdelphi/p/15250019.html 
 - https://learnopengl-cn.github.io/ 
